@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ruth
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning cloud computing
-- 💞️ I’m looking to collaborate on anything which might be releted to devops 
+- 🌱 I’m currently a certified Solution Architect
+- 💞️ I’m looking to collaborate on anything which might be Cloud Computing
 - 📫 How to reach me ...
 
 <!---
